@@ -8,4 +8,4 @@ ML is where all my curiosity goes.
 - poking at BitNet / ternary weights and FPGA inference because full precision is boring
 
 **Find me**
-X: @kai27x — study log lives there, daily
+X: @kai27x - study log lives there, daily
