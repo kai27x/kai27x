@@ -1,4 +1,3 @@
-current status: gradient descent on my own ignorance.
 Debugging my own understanding.
 ML is where all my curiosity goes.
 
