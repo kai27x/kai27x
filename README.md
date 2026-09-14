@@ -1,4 +1,3 @@
-Debugging my own understanding.
 ML is where all my curiosity goes.
 
 **Local compute**
