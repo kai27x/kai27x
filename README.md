@@ -1,4 +1,4 @@
-ML is where all my curiosity goes.
+figuring out why models are dumb.
 
 **Local compute**
 - Arch + KDE
